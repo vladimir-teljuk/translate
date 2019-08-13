@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="ru" datatype="plaintext" original="ng2.template" target-language="en">
+    <body>
+      <trans-unit id="searchPlaceholder" datatype="html">
+        <source>Карпаты, Суши, СПА, Одежда...</source><target state="new">Carpathians, Sushi, SPA, Clothes ...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layouts/header/header.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit><trans-unit id="loginButton" datatype="html">
+        <source>Войти</source><target state="new">Log in</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layouts/header/header.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit><trans-unit id="topWeekTitle" datatype="html">
+        <source>Топ акций</source><target state="new">Top deals</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/home/pages/home/home.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit><trans-unit id="contactUs" datatype="html">
+        <source>
+      Связаться с нами
+    </source><target state="new">
+      Contact us
+    </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layouts/footer/footer-info/footer-info.component.html</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutUs" datatype="html">
+        <source>
+      О нас
+    </source><target state="new">
+      About us
+    </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layouts/footer/footer-nav/footer-nav.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="pressAboutUs" datatype="html">
+        <source>Пресса о нас</source><target state="new">Press about us</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layouts/footer/footer-nav/footer-nav.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="termsOfUse" datatype="html">
+        <source>Пользовательское соглашение</source><target state="new">Terms of use</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layouts/footer/footer-nav/footer-nav.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="privacyPolicy" datatype="html">
+        <source>Политика конфиденциальности</source><target state="new">Privacy policy</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layouts/footer/footer-nav/footer-nav.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="blackFriday" datatype="html">
+        <source>Черная пятница</source><target state="new">Black Friday</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layouts/footer/footer-nav/footer-nav.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Careers" datatype="html">
+        <source>Вакансии</source><target state="new">Jobs</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layouts/footer/footer-nav/footer-nav.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="forClients" datatype="html">
+        <source>
+      Клиентам
+    </source><target state="new">
+      Customers
+    </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layouts/footer/footer-nav/footer-nav.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="clientHelp" datatype="html">
+        <source>Помощь</source><target state="new">Customer Support</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layouts/footer/footer-nav/footer-nav.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="finishedCampaigns" datatype="html">
+        <source>Прошедшие акции</source><target state="new">Past deals</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layouts/footer/footer-nav/footer-nav.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="browserExtension" datatype="html">
+        <source>Плагин для браузера</source><target state="new">Browser Extension</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layouts/footer/footer-nav/footer-nav.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cashbackTutorial" datatype="html">
+        <source>Как работает кешбек</source><target state="new">How does cashback work</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layouts/footer/footer-nav/footer-nav.component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="blog" datatype="html">
+        <source>Блог</source><target state="new">Blog</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layouts/footer/footer-nav/footer-nav.component.html</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="forPartners" datatype="html">
+        <source>
+      Парнёрам
+    </source><target state="new">
+      Parners
+    </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layouts/footer/footer-nav/footer-nav.component.html</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layouts/footer/footer-nav/footer-nav.component.html</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="publicOffer" datatype="html">
+        <source>Публичная оферта</source><target state="new">Public offer</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layouts/footer/footer-nav/footer-nav.component.html</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Contact" datatype="html">
+        <source>
+      Контакты
+    </source><target state="new">
+      Contacts
+    </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layouts/footer/footer-nav/footer-nav.component.html</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="addCampaign" datatype="html">
+        <source>
+      Добавить акцию
+    </source><target state="new">
+      Add deal
+    </target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/layouts/footer/footer-nav/footer-nav.component.html</context><context context-type="linenumber">76</context></context-group></trans-unit><trans-unit id="popularOffers" datatype="html">
+        <source>Популярные товары</source><target state="new">Popular goods</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/home/components/sliders/slider-offers/slider-offers.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit><trans-unit id="seeAll" datatype="html">
+        <source>Смотреть все</source><target state="new">See all</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">src/app/modules/home/components/category-preview/category-preview.component.html</context><context context-type="linenumber">5</context></context-group><context-group purpose="location"><context context-type="sourcefile">src/app/modules/home/components/sliders/slider-offers/slider-offers.component.html</context><context context-type="linenumber">5</context></context-group></trans-unit><trans-unit id="showAnotherCampaigns" datatype="html">
+        <source>Показать еще <x id="ICU" equiv-text="{CAMPAIGN_LENGTH_TEST, plural, one {...} few {...} other {...}}"/></source><target state="new">Show another <x id="ICU" equiv-text="{CAMPAIGN_LENGTH_TEST, plural, one {...} few {...} other {...}}"/></target>
+
+      <context-group purpose="location"><context context-type="sourcefile">src/app/modules/home/components/category-preview/category-preview.component.html</context><context context-type="linenumber">23</context></context-group></trans-unit><trans-unit id="cb4aa109c33a5b2abd8a39b52aff4d68b4201c92" datatype="html">
+        <source>{VAR_PLURAL, plural, one {<x id="INTERPOLATION" equiv-text="{{CAMPAIGN_LENGTH_TEST}}"/> акцию} few {<x id="INTERPOLATION" equiv-text="{{CAMPAIGN_LENGTH_TEST}}"/> акций} other {<x id="INTERPOLATION" equiv-text="{{CAMPAIGN_LENGTH_TEST}}"/> акции } }</source><target state="new">{VAR_PLURAL, plural, one {<x id="INTERPOLATION" equiv-text="{{CAMPAIGN_LENGTH_TEST}}"/> campaign} few {<x id="INTERPOLATION" equiv-text="{{CAMPAIGN_LENGTH_TEST}}"/> campaigns} other {<x id="INTERPOLATION" equiv-text="{{CAMPAIGN_LENGTH_TEST}}"/> campaigns } }</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">src/app/modules/home/components/category-preview/category-preview.component.html</context><context context-type="linenumber">23</context></context-group></trans-unit><trans-unit id="learnMore" datatype="html">
+        <source>Подробнее</source><target state="new">Read more</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/home/components/sliders/slider-offer-tile/slider-offer-tile.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit><trans-unit id="cashback" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{offer.cashbackAmount | localeCurrency}}"/> кешбек</source><target state="new"><x id="INTERPOLATION" equiv-text="{{offer.cashbackAmount | localeCurrency}}"/> cashback</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/home/components/sliders/slider-offer-tile/slider-offer-tile.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit><trans-unit id="bannerMobileTitle" datatype="html">
+        <source>В приложении удобнее!</source><target state="new">The application is more convenient!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/home/components/banners/banner-mobile/banner-mobile.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit><trans-unit id="bannerMobileContent" datatype="html">
+        <source>Скачивайте наше приложение, выигрывайте монеты и подарки в Колесе
+    призов, и всегда носите свои купоны с собой!
+  </source><target state="new">Download our app, win coins and gifts in the Prize Wheel, and always carry your coupons with you!
+  </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/home/components/banners/banner-mobile/banner-mobile.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit><trans-unit id="labelPhoneNumber" datatype="html">
+        <source>Введите номер телефона</source><target state="new">Enter phone number</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">src/app/modules/home/components/banners/banner-mobile/banner-mobile.component.html</context><context context-type="linenumber">12</context></context-group></trans-unit><trans-unit id="getMobileAppLink" datatype="html">
+        <source>Получить ссылку</source><target state="new">Get a link</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">src/app/modules/home/components/banners/banner-mobile/banner-mobile.component.html</context><context context-type="linenumber">16</context></context-group></trans-unit><trans-unit id="bannerPartnerTitle" datatype="html">
+        <source>Хотите разместить здесь свою акцию?</source><target state="new">Want to place your campaign here?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/home/components/banners/banner-partner/banner-partner.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit><trans-unit id="bannerPartnerButton" datatype="html">
+        <source>Да! Как это сделать?</source><target state="new">Yes! How to do it?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/home/components/banners/banner-partner/banner-partner.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit><trans-unit id="viewCampaign" datatype="html">
+        <source>Посмотреть</source><target state="new">View</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">src/app/shared/components/campaign-tile/campaign-tile.component.html</context><context context-type="linenumber">9</context></context-group><context-group purpose="location"><context context-type="sourcefile">src/app/modules/home/components/sliders/slider-campaign-tile/slider-campaign-tile.component.html</context><context context-type="linenumber">14</context></context-group></trans-unit><trans-unit id="stationList" datatype="html">
+        <source>
+          + <x id="ICU" equiv-text="{stationsCount, plural, one {...} few {...} other {...}}"/>
+        </source><target state="new">
+          + <x id="ICU" equiv-text="{stationsCount, plural, one {...} few {...} other {...}}"/>
+        </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">src/app/shared/components/campaign-tile/campaign-tile.component.html</context><context context-type="linenumber">22</context></context-group></trans-unit><trans-unit id="4b8ae9565a58a444385da2bac0ed504eb5b1459a" datatype="html">
+        <source>{VAR_PLURAL, plural, one {<x id="INTERPOLATION" equiv-text="{{stationsCount}}"/> станция} few {<x id="INTERPOLATION" equiv-text="{{stationsCount}}"/> станции} other {<x id="INTERPOLATION" equiv-text="{{stationsCount}}"/> станций } }</source><target state="new">{VAR_PLURAL, plural, one {<x id="INTERPOLATION" equiv-text="{{stationsCount}}"/> station} few {<x id="INTERPOLATION" equiv-text="{{stationsCount}}"/> stations} other {<x id="INTERPOLATION" equiv-text="{{stationsCount}}"/> stations } }</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">src/app/shared/components/campaign-tile/campaign-tile.component.html</context><context context-type="linenumber">23</context></context-group></trans-unit><trans-unit id="nearestMetro" datatype="html">
+        <source>Ближайшее метро
+    <x id="START_TAG_DIV" ctype="x-div" equiv-text="&lt;div>"/>
+      <x id="START_TAG_NG-SELECT" ctype="x-ng-select" equiv-text="&lt;ng-select>"/>
+        <x id="START_TAG_NG-OPTION" ctype="x-ng-option" equiv-text="&lt;ng-option>"/>Все станции<x id="CLOSE_TAG_NG-OPTION" ctype="x-ng-option" equiv-text="&lt;/ng-option>"/>
+        <x id="START_TAG_NG-OPTION_1" ctype="x-ng-option" equiv-text="&lt;ng-option>"/><x id="INTERPOLATION" equiv-text="{{station.title}}"/> (<x id="INTERPOLATION_1" equiv-text="{{station.count}}"/>)
+        <x id="CLOSE_TAG_NG-OPTION" ctype="x-ng-option" equiv-text="&lt;/ng-option>"/>
+      <x id="CLOSE_TAG_NG-SELECT" ctype="x-ng-select" equiv-text="&lt;/ng-select>"/>
+    <x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/>
+  </source><target state="new">Nearest subway
+    <x id="START_TAG_DIV" ctype="x-div" equiv-text="&lt;div>"/>
+      <x id="START_TAG_NG-SELECT" ctype="x-ng-select" equiv-text="&lt;ng-select>"/>
+        <x id="START_TAG_NG-OPTION" ctype="x-ng-option" equiv-text="&lt;ng-option>"/>All stations<x id="CLOSE_TAG_NG-OPTION" ctype="x-ng-option" equiv-text="&lt;/ng-option>"/>
+        <x id="START_TAG_NG-OPTION_1" ctype="x-ng-option" equiv-text="&lt;ng-option>"/><x id="INTERPOLATION" equiv-text="{{station.title}}"/> (<x id="INTERPOLATION_1" equiv-text="{{station.count}}"/>)
+        <x id="CLOSE_TAG_NG-OPTION" ctype="x-ng-option" equiv-text="&lt;/ng-option>"/>
+      <x id="CLOSE_TAG_NG-SELECT" ctype="x-ng-select" equiv-text="&lt;/ng-select>"/>
+    <x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/>
+  </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/campaign/components/campaign-filters/campaign-filters.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit><trans-unit id="chooseStation" datatype="html">
+        <source>Выбрать станцию</source><target state="new">Choose station</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">src/app/modules/campaign/components/campaign-filters/campaign-filters.component.html</context><context context-type="linenumber">10</context></context-group></trans-unit><trans-unit id="price" datatype="html">
+        <source>Цена</source><target state="new">Price</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/campaign/components/campaign-filters/campaign-filters.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit><trans-unit id="from" datatype="html">
+        <source>От</source><target state="new">From</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">src/app/modules/campaign/components/campaign-filter-price/campaign-filter-price.component.html</context><context context-type="linenumber">2</context></context-group></trans-unit><trans-unit id="to" datatype="html">
+        <source>До</source><target state="new">To</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/campaign/components/campaign-filter-price/campaign-filter-price.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit><trans-unit id="promocodeType" datatype="html">
+        <source>
+            <x id="ICU" equiv-text="{promocode.type, select, promocode {...} discount {...} sale {...}}"/>
+          </source><target state="new">
+            <x id="ICU" equiv-text="{promocode.type, select, promocode {...} discount {...} sale {...}}"/>
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/promocodes/pages/promocode-details/promocode-details.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit><trans-unit id="87399b04b457f375eb8b771fcae258ee4abbcbad" datatype="html">
+        <source>{VAR_SELECT, select, promocode {промокод} discount {скидка} sale {скидка} }</source><target state="new">{VAR_SELECT, select, promocode {промокод} discount {скидка} sale {скидка} }</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/promocodes/pages/promocode-details/promocode-details.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
